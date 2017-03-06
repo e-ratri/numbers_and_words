@@ -1,0 +1,7 @@
+id:
+  numbers:
+    ones: [Nol, Satu, Dua, Tiga, Empat, Lima, Enam, Tujuh, Delapan, Sembilan]
+    teens: [Sepuluh, Sebelas, "Dua Belas", "Tiga Belas", "Empat Belas", "Lima Belas", "Enam Belas", "Tujuh Belas", "Delapan Belas", "Sembilan Belas"]
+    tens: [Nol, Sepuluh, "Dua Puluh", "Tiga Puluh", "Empat Puluh", "Lima Puluh", "Enam Puluh", "Tujuh Puluh", "Delapan Puluh", "Sembila Puluh"]
+    hundreds: Ribu
+    union_separator: Koma
